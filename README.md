@@ -1,12 +1,10 @@
-# Dijkstras-algorithm-HYDmetro
+# Bhubaneswar Metro Route
 
 **_INTRODUCTION:_**
-This C++ code implements real time use case of Dijkstras algorithm to find the shortest path from source to every destination.There are 56 metro stations in Hyderabad. Considering each station an integer value starting from 0 is assigned,when the user enters the source station Dijkstras algorithm is applied and least no of stations from the source to every other station is calculated and displayed.
-
-**_COMPLEXITY:_**
-The time complexity of Dijkstras algorithm is O(V^2),where V is the number of vertices in the graph.The space complexity of Dijkstras algorithm is O(V)
-
-Please follow the link for the same project developed in java: https://github.com/ASMA-GIT/Hyderabad-Metro-DijkstraAlgo
+  Bhubaneswar Metro Route Finder | Graphs
+- Developed a Bhubaneswar metro route finder using Graphs.
+- Users input the source and destination stations, and the app calculates and displays the optimal route along with the stations
+  it will pass through, enhancing navigation and planning for commuters.
 
 # STATION CODES
 
